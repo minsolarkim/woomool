@@ -1,0 +1,30 @@
+.container {
+    max-width: 560px;
+}
+
+.field-error {
+    border-color: #dc3545;
+    color: #dc3545;
+}
+
+.id_input_re_1 {
+    color: green;
+    display: none;
+}
+
+.id_input_re_2 {
+    color: red;
+    display: none;
+}
+
+.id_input_re_3 {
+    color: red;
+    display: none;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
